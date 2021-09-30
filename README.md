@@ -38,7 +38,7 @@ package main
 
 import (
 	"fmt"
-	"goenv"
+	"github.com/jellycheng/goenv"
 	"os"
 )
 
