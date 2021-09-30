@@ -12,4 +12,11 @@
 *.out
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+vendor/
+cjs_test.go
+cjs.ini
+cjs.json
+cjs.yml
+go.sum
+.DS_Store
+.env
