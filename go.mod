@@ -1,4 +1,4 @@
-module goenv
+module github.com/jellycheng/goenv
 
 go 1.14
 
